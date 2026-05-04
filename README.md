@@ -1,5 +1,5 @@
 # Ray-Tracing-The-Next-Week-with-SlangPy
-![](https://raw.githubusercontent.com/Delee0209/Ray-Tracing-The-Next-Week-with-SlangPy/blob/main/captured/screenshot.png)
+![](https://raw.githubusercontent.com/Delee0209/Ray-Tracing-The-Next-Week-with-SlangPy/refs/heads/main/captured/screenshot.png)
 Implementation of Ray Tracing The Next Week written in python and slang via [SlangPy](https://slangpy.shader-slang.org/en/latest/)
 - currently only implement to [section 7.3](https://raytracing.github.io/books/RayTracingTheNextWeek.html#lights/turningobjectsintolights)
 
